@@ -14,6 +14,12 @@
         class="com.nepplus.fragment_20211204.fragments.FirstFragment"
         />
 
+    <fragment
+        android:tag="두번째프래그먼트"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        class="com.nepplus.fragment_20211204.fragments.SecondFragment"/>
+
 
     <fragment
         android:tag="firstFrag"
