@@ -15,5 +15,12 @@
         />
 
 
+    <fragment
+        android:tag="firstFrag"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        class="com.nepplus.fragment_20211204.fragments.FirstFragment"
+        />
+
 
 </LinearLayout>
